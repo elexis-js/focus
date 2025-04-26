@@ -1,6 +1,6 @@
 {
   "name": "@elexis.js/focus",
-  "description": "Element focus state controller.",
+  "description": "Element focus state controller for ElexisJS.",
   "version": "1.0.0",
   "author": {
     "name": "defaultkavy",
