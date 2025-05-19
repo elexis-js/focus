@@ -1,7 +1,7 @@
 {
   "name": "@elexis.js/focus",
   "description": "Element focus state controller for ElexisJS.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "defaultkavy",
     "email": "defaultkavy@gmail.com",
@@ -16,7 +16,13 @@
     "url": "https://github.com/elexis-js/focus/issues"
   },
   "homepage": "https://github.com/elexis-js/focus",
-  "keywords": ["web", "front-end", "lib", "fluent", "framework"],
+  "keywords": [
+    "web",
+    "front-end",
+    "lib",
+    "fluent",
+    "framework"
+  ],
   "license": "ISC",
   "type": "module",
   "peerDependencies": {
