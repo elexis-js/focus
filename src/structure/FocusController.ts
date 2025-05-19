@@ -1,5 +1,5 @@
-import { _scrollTo } from "elexis/src/lib/scrollTo";
-import { $EventManager } from "elexis/src/structure/$EventManager";
+import { _scrollTo } from "elexis/lib/scrollTo";
+import { $EventManager } from "elexis/structure/$EventManager";
 import { type $FocusLayerEventMap, $FocusLayer } from "./FocusLayer";
 
 export class $FocusController extends $EventManager<$FocusLayerEventMap> {

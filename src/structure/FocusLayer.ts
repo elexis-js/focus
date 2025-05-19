@@ -1,7 +1,7 @@
-import { _scrollTo } from "elexis/src/lib/scrollTo";
-import type { $HTMLElement } from "elexis/src/node/$HTMLElement";
-import { type $EventMap, $EventManager } from "elexis/src/structure/$EventManager";
-import type { $StateArgument } from "elexis/src/structure/$State";
+import { _scrollTo } from "elexis/lib/scrollTo";
+import type { $HTMLElement } from "elexis/node/$HTMLElement";
+import { type $EventMap, $EventManager } from "elexis/structure/$EventManager";
+import type { $StateArgument } from "elexis/structure/$State";
 
 export interface $FocusLayerEventMap extends $EventMap {
     focus: [{$prevFocus?: $HTMLElement, $focused: $HTMLElement, layer: $FocusLayer}],

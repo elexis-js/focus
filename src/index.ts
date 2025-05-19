@@ -1,5 +1,5 @@
 import 'elexis/core'
-import { $FocusController } from './src/structure/FocusController'
+import { $FocusController } from '#structure/FocusController'
 
 declare module 'elexis/core' {
     export namespace $ {
